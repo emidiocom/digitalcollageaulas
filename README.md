@@ -19,143 +19,15 @@ tag e <syle> dentro ----> Vai carregar conforme for abrindo o site
 https://gitpod.io/#/https://github.com/dcTeam7/Course
 
 
-HMTL da Aula esta Comentado abaixo...
-<!--
-
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Position CSS</title>
-    
-    <style>
-        .parent {}
-
-        .child-one {
-            position: relative;
-            top: 30px;
-            left: 10px;
-            z-index: 1;
-            /* bottom: ;
-            top: ;
-            right: ;
-            left: ; 
-            z-index: ;
-            */
-        }
-
-        .child-two {
-            position: relative;
-            top: 0px;
-            left: 0px;
-            z-index: 2;
-        }]]
 
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Position CSS</title>
-    
-    <style>
-        .parent {}
-
-        .child-one {
-            position: absolute;
-            right: 20px;
-            bottom: 20px;
-            z-index: 1;
-            
-            /*top: ;
-            
-            left: ; 
-            z-index: ;
-            top: 30px;
-              left: 10px;
-            */
-        }
-
-        .child-two {
-            position: relative;
-            top: 0px;
-            left: 0px;
-            z-index: 2;
-        }
-
-        .child-three {}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        .parent {
-            padding: 5px;
-            background-color: #00AAFF;
-        }
-
-        .child {
-            padding: 5px;
-        }
-
-        .child-one {
-            background-color: rgb(116, 255, 116);
-        }
-
-        .child-two {
-            background-color: rgb(248, 117, 117);
-        }
-
-        .child-three {
-            background-color: rgb(255, 116, 232);
-        }
-    </style>
-</head>
-
-<body>
-
-    <div class="parent" >
-        Parent
-        <div class="child-one child">One</div>
-        <div class="child-two child">Two</div>
-        <div class="child-three child">Three</div>
-    </div>
-</body>
-
-</html>
-
--->
 
 codeinthedark.com.br
 
 flexbox
 
 
+HMTL da Aula 18102022 esta Comentado abaixo...
 
 <hr>
 
@@ -522,3 +394,135 @@ This web site is using `markedjs/marked`.
 ![DNSVIDEOplay](https://user-images.githubusercontent.com/78033319/192444327-65b5d065-145c-4fdc-bd5f-9c4899d6008a.jpeg)
 
 -->
+
+
+HMTL da Aula 18102022 esta Comentado abaixo...
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Position CSS</title>
+    
+    <style>
+        .parent {}
+
+        .child-one {
+            position: relative;
+            top: 30px;
+            left: 10px;
+            z-index: 1;
+            /* bottom: ;
+            top: ;
+            right: ;
+            left: ; 
+            z-index: ;
+            */
+        }
+
+        .child-two {
+            position: relative;
+            top: 0px;
+            left: 0px;
+            z-index: 2;
+        }]]
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Position CSS</title>
+    
+    <style>
+        .parent {}
+
+        .child-one {
+            position: absolute;
+            right: 20px;
+            bottom: 20px;
+            z-index: 1;
+            
+            /*top: ;
+            
+            left: ; 
+            z-index: ;
+            top: 30px;
+              left: 10px;
+            */
+        }
+
+        .child-two {
+            position: relative;
+            top: 0px;
+            left: 0px;
+            z-index: 2;
+        }
+
+        .child-three {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        .parent {
+            padding: 5px;
+            background-color: #00AAFF;
+        }
+
+        .child {
+            padding: 5px;
+        }
+
+        .child-one {
+            background-color: rgb(116, 255, 116);
+        }
+
+        .child-two {
+            background-color: rgb(248, 117, 117);
+        }
+
+        .child-three {
+            background-color: rgb(255, 116, 232);
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="parent" >
+        Parent
+        <div class="child-one child">One</div>
+        <div class="child-two child">Two</div>
+        <div class="child-three child">Three</div>
+    </div>
+</body>
+
+</html> -->
+
