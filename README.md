@@ -7,12 +7,12 @@
 
 
 
-<link href="./style.css" ---->  Carrega Primeiro
+< link href="./style.css" ---->  Carrega Primeiro
 
-<style>          ----->   Carrega dentro do HTML
+< styl e>          ----->   Carrega dentro do HTML
 .parent {}
 
-tag e <syle> dentro ----> Vai carregar conforme for abrindo o site
+tag e < syle > dentro ----> Vai carregar conforme for abrindo o site
 
 
 
