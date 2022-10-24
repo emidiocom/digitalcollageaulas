@@ -3,8 +3,6 @@
 # Digital Collage Aulas Turma Full Stack 07
 <hr>
 
-
-
 ## Aula 18102022
 
 
