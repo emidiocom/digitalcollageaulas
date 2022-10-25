@@ -1,6 +1,38 @@
 #### digitalcollageaulas
 
 # Digital Collage Aulas Turma Full Stack 07
+
+<hr>
+
+## Aula 25102022
+
+Git " salva a modificação dos projetos"  e ter todos os historicos do projeto e de todos os seus projetos no GitHub
+
+titulo descrição
+PullRequest from   Exemplo de titulo Feature: adcionando styles
+
+Mais importante Base:main  <--- compare:"user que fez alteração"
+
+reviewers --> que pode revisar
+assignees --> normalmente quem criou
+
+no comentario voce pode fazer o comentario
+e se colocar com
+
+'''suggestion
+
+comando
+
+
+'''
+
+
+Close pull resquest  --> É para fazer o descarte da PullRequest
+
+
+Merge pull resquest --> Manda para o main a PullRequest   Existe 3 formas   --Createa merge commint   --Squash and merge  --
+
+
 <hr>
 
 ## Aula 18102022
