@@ -5,6 +5,23 @@
 
 <hr>
 
+## Aula 27102022
+
+Passar desse desafio com apenas 3 blocos: 
+https://studio.code.org/s/pre-express-2022/lessons/9/levels/8
+
+
+Passar desse desafio com apenas 2 blocos de azuis na solucao 
+https://studio.code.org/s/pre-express-2022/lessons/4/levels/11
+
+
+
+CAIO E RENAN
+https://meet.google.com/igh-fmeq-syi
+
+
+<hr>
+
 ## Aula 25102022
 
 Git " salva a modificação dos projetos"  e ter todos os historicos do projeto e de todos os seus projetos no GitHub
