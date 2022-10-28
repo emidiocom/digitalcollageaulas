@@ -20,6 +20,17 @@ CAIO E RENAN
 https://meet.google.com/igh-fmeq-syi
 
 
+By JoelLacerda — Ontem às 10:12
+Aula 27/10
+
+Baseado na sua issue de fundamentos (https://github.com/dcTeam7/Course/issues/), criar uma nova issue com o prefixo "Markdown: [mesmo nome da issue original]". Não esquecer de se atribuir a tarefa e colocar como milestone 2.0.0.
+
+No texto da nova issue, colocar "Relacionado com a issue #[número da issue original]"Na aba development da nova issue, criar uma nova branch com o nome da issue (ex: 31-markdown-devtools).
+
+Quando acessar o gitpod desse repositório, não esquecer de trocar a branch para fazer as alterações. LEMBRAR DE CRIAR A PASTA "markdown" dentro da pasta "examples". Dentro dela, criar um arquivo .md com o conteúdo da issue original. Quando fizer as alterações, dar commit e sincronizar as mudanças. 
+
+Após, criar uma pull request baseado no seu commit, com o mesmo nome da issue e o número dela na descrição. Atribuir um revisor para fazer as revisões do código.
+
 <hr>
 
 ## Aula 25102022
