@@ -4,6 +4,21 @@
 
 # Digital Collage Aulas Turma Full Stack 07
 
+
+<hr>
+
+## Aula 01112022
+
+Quando mais detalhado no commit e melhor para o entendimento.
+conventional commits  --> Padrao fazer um melhor commit no GitHub
+
+Codigo de conduta para um melhor pull request
+
+
+Comando para fechar a 
+
+Closes #numero da pull request
+
 <hr>
 
 ## Aula 27102022
