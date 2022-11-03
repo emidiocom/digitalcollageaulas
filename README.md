@@ -4,6 +4,32 @@
 
 # Digital Collage Aulas Turma Full Stack 07
 
+<hr>
+
+## Aula 03112022
+
+O Cenventional Commits: Tema para melhor no Git Pull Request
+
+https://gitpod.io/#/https://github.com/dcTeam7/Course    ---> atalho para o Gitpod.io       
+
+Comandos no terminal do Gitpod.io
+
+git checkout origin/Mikael
+git checkout main
+git status
+
+Criar um brant TEMP
+git pull origin main
+git pull origin/main
+
+Voltar para main
+
+git /workspace/Course (main) $ git pull --rebase origin
+git rebase --continue
+
+
+sayhello.so
+stackoverflow
 
 <hr>
 
