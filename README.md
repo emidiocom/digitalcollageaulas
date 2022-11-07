@@ -12,6 +12,7 @@ O Cenventional Commits: Tema para melhor no Git Pull Request
 
 https://gitpod.io/#/https://github.com/dcTeam7/Course    ---> atalho para o Gitpod.io       
 
+
 Comandos no terminal do Gitpod.io
 
 git checkout origin/Mikael
