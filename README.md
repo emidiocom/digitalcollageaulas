@@ -4,6 +4,32 @@
 
 # Digital Collage Aulas Turma Full Stack 07
 
+
+<hr>
+
+## Aula 08112022
+
+Comandos no GIT
+GIT ST
+
+Create a branch
+
+
+Commits é um registro no banco de dados do Git pode ser alteração, mudanças, etc em qualquer projeto.
+
+Criar Pull Request
+
+Descrição
+
+Close #"numero da iusse"
+
+Maria Css Alicides Queiroz
+
+Git hub Quiz
+
+Fabio Akita Dicas youtube GitHub
+
+
 <hr>
 
 ## Aula 03112022
