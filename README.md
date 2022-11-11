@@ -4,6 +4,27 @@
 
 # Digital Collage Aulas Turma Full Stack 07
 
+<hr>
+
+##Aula 10112022
+
+Zeno Rocha zenorocha.com
+
+git-scm.com/download
+
+feature  WSL
+
+$ wsl --update
+
+
+#from Microsoft Store
+#install ubuntu
+#from terminal
+
+$wsl
+
+i5 > Ubuntu 22
+i3 < Ubuntu 18
 
 <hr>
 
