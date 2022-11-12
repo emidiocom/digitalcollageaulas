@@ -21,6 +21,7 @@ $ wsl --update
 #install ubuntu
 #from terminal
 
+
 $wsl
 
 i5 > Ubuntu 22
