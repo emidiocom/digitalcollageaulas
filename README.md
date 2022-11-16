@@ -4,6 +4,41 @@
 
 # Digital Collage Aulas Turma Full Stack 07
 
+
+<hr>
+
+##Aula 14112022
+
+git config user.name
+
+
+beta.sayhello.so
+
+
+
+https://beta.sayhello.so/search?q=create%20file%20linux
+
+mkdir nome da Pasta
+cd nome da Pasta
+git clone "endereço"
+
+https://github.com/dcTeam7/Course.git
+
+
+
+[safe]
+        directory = *
+[push]
+        default = simple
+[alias]
+        lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+[credential]
+        helper = /usr/bin/gp credential-helper
+[user]
+        name = Emídio Neto
+        email = emidio.com@gmail.com
+
+
 <hr>
 
 ##Aula 10112022
