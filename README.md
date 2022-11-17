@@ -7,6 +7,38 @@
 
 <hr>
 
+
+##Aula 17112022
+
+
+------------------------------------------------
+
+Emídio Neto: emidio.com@gmail.com  
+id: 94445895
+is_signed_in: true
+is_verified_instructor: false
+mute_music: false
+short_name: "Emídio"
+under_13: false
+user_type: "student"
+username: "em_dio580"
+
+------------------------------------------------
+
+
+https://studio.code.org/s/express-2022
+
+- Sequenciamento
+- Depuração
+- Eventos
+- Loops - NESTED
+- Condicionais
+- Funções
+- Variables
+
+
+<hr>
+
 ##Aula 14112022 
 
 git config user.name
