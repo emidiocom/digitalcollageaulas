@@ -7,6 +7,19 @@
 
 <hr>
 
+##Aula 22112022
+
+
+add Event Listener  estudar para ajudar na questao de eventos do site.
+
+studio.code.org/prjetos  
+
+23 12
+02 01
+
+
+<hr>
+
 
 ##Aula 17112022
 
