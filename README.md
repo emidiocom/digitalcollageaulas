@@ -4,6 +4,14 @@
 
 # Digital Collage Aulas Turma Full Stack 07
 
+<hr>
+
+##Aula 24112022
+
+Todos os comandos no JavaScript tem que ser declarados.
+
+Tarefas para proxima aula code.org 2022 -> 9
+
 
 <hr>
 
