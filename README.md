@@ -4,6 +4,39 @@
 
 # Digital Collage Aulas Turma Full Stack 07
 
+
+<hr>
+
+##Aula 29112022
+
+webdesign
+javascript
+front end 
+node js
+
+
+
+Pratica -> Intimidade -> Curiosidade -> Reflexão -> Compreensão -> Pratica
+
+
+Inspecionar
+Console
+windows.addEventListener
+body.addEventListener
+
+codepen.io  fazer comandos em teste
+
+html
+<button onclick="clickBehavior()">Click me</button>
+
+JS
+let count=0
+funcition clickBehavior(){
+console.log("request " + (++count))
+}
+
+
+
 <hr>
 
 
