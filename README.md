@@ -4,6 +4,11 @@
 
 # Digital Collage Aulas Turma Full Stack 07
 
+<hr>
+
+##Aula 01122022
+
+Livro Agile Principles, Patterns and Practices in C#
 
 <hr>
 
