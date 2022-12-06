@@ -6,6 +6,39 @@
 
 <hr>
 
+##Aula 06122022
+
+
+Linha de comando que trava o Processador.
+
+while (true) {
+
+ console.loy ("opa")
+}
+
+
+
+
+Function hasLettuce()
+
+colocar as peguntas para que a função possa testar a condição de passsar ou não a função.
+
+
+Pesquisar sobre UML
+
+
+Estrutura para conectar expressão logica 
+
+e
+OU
+não
+
+https://abraaoalves.github.io/caraacara/
+
+https://notepade.web.app/?abraao
+
+<hr>
+
 ##Aula 01122022
 
 Livro Agile Principles, Patterns and Practices in C#
