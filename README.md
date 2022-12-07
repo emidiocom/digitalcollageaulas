@@ -9,6 +9,7 @@
 ##Aula 06122022
 
 
+
 Linha de comando que trava o Processador.
 
 while (true) {
