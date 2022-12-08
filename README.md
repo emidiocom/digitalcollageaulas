@@ -6,6 +6,40 @@
 
 <hr>
 
+##Aula 08122022
+
+Quero uma carreira de desenvolvedor de software de sucesso, para isso devo estudar,
+praticar e contruir um bom netword, não trabalhando em empresas sem tecnologia
+ou construindo meu prprio caminho/empresa de tecnologia.
+
+
+IF (  SUCESSO ()  )
+
+
+ELSE
+
+AND = &&
+OR = ||
+NOT = !
+
+
+
+estudar AND
+praticar AND
+networdk AND
+trabalhar AND
+NOT empresas s tec  
+OU minha emp tecno
+
+E & P & N & T & ( ! S || M ) = TRUE | FALSE
+
+Tabela Verdade
+
+
+
+
+<hr>
+
 ##Aula 06122022
 
 
