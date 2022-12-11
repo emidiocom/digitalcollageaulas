@@ -8,7 +8,6 @@
 
 ##Aula 08122022
 
-
 Quero uma carreira de desenvolvedor de software de sucesso, para isso devo estudar,
 praticar e contruir um bom netword, não trabalhando em empresas sem tecnologia
 ou construindo meu prprio caminho/empresa de tecnologia.
