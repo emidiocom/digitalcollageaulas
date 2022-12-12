@@ -6,6 +6,7 @@
 
 <hr>
 
+
 ##Aula 08122022
 
 Quero uma carreira de desenvolvedor de software de sucesso, para isso devo estudar,
