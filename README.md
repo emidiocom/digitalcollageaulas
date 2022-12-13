@@ -4,6 +4,19 @@
 
 # Digital Collage Aulas Turma Full Stack 07
 
+
+##Aula 13122022 
+
+-> Sequenciamento
+-> Eventos
+-> Condicionais
+-> Funções
+-> Expressões Logicas
+-> Variaveis
+
+
+
+
 <hr>
 
 
