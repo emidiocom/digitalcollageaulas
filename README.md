@@ -14,6 +14,25 @@
 -> Expressões Logicas
 -> Variaveis
 
+By Mikael https://notepade.web.app/markdown/?dcteam7
+
+Criar intimidade para poder saber como usar cada coisa.
+(CODE.org)
+
+- Sequenciamento;
+- Eventos;
+- Condicionais;
+- Funções;
+- Expressões Lógicas;
+- Variáveis;
+
+Criar um aplicativo (MONTADOR DE PIZZA) pelo code.org;
+
+*Obs*: A variável é um elemento/identificador que armazena dados de código (funções) para chamá-la no momento oportuno, evitando usar muitas linhas de código.
+
+*ATENÇÃO*: Terminar o CODE.org completo, até o módulo de variáveis, para a próxima aula.
+
+n.discordapp.com/attachments/1014953685379453019/1050397527205232680/9C7CBE01-0081-4F52-AAC6-69A2DFF4E73B.jpg)
 
 
 
@@ -50,6 +69,60 @@ E & P & N & T & ( ! S || M ) = TRUE | FALSE
 Tabela Verdade
 
 
+By Mikael https://notepade.web.app/markdown/?dcteam7
+
+### Inputs e Outputs
+
+AND - E (&) - Se houver algum F p resultado vai ser F
+OR - OU (||) - Se houver algum V o resultado será V
+NOT - NÃO (!) - 
+
+"Quero uma carreira de desenvolvedor de software de sucesso, para isso, devo praticar, estudar e construir um bom network, não trabalhando em empresas sem tecnologia ou construindo meu próprio caminho /empresa de tecnologia."
+
+if (sucesso())
+else
+
+(A condição é sempre veradeiro ou falso)
+
+E - estudar AND
+P - praticar AND
+N - network AND
+S - NOT empresas s/ teC
+M - OU empreender em tec
+
+E & P & N & T & (!S || M)=    (TRUE OR FALSE)
+
+
+A - Praticar
+B - Trabalhar
+
+A AND B = 
+A AND A = 
+A AND (NOT B) = 
+
+
+
+### TABELA VERDADE
+
+[01](https://static.todamateria.com.br/upload/ta/be/tabelaverdadeconectivo1-cke.jpg)
+
+[02](http://www.dpi.inpe.br/~carlos/Academicos/Cursos/ArqComp/3-2.jpg)
+
+
+
+### EXERCICIOS DE RACIOCÍNIO LÓGICO
+
+[01](https://www.todamateria.com.br/raciocinio-logico-exercicios)
+
+[02](https://www.novaconcursos.com.br/portal/artigos/questao-raciocinio-logico-para-concursos)
+
+
+
+### FUNÇÕES
+Criar códigos dividindo em funções menores
+Ver LESSON 21 Step 12 do code.org
+
+[Foto](https://cd
 
 
 <hr>
