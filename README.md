@@ -5,6 +5,12 @@
 # Digital Collage Aulas Turma Full Stack 07
 
 
+<hr>
+
+##Aula 15122022
+
+<hr>
+
 ##Aula 13122022 
 
 -> Sequenciamento
