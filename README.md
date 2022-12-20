@@ -4,6 +4,40 @@
 
 # Digital Collage Aulas Turma Full Stack 07
 
+<hr>
+
+##Aula 20122022
+
+kahoot --> Dica de Programa para espelhamento de tela.
+
+
+chatGPT 
+chat.open.ai.com
+
+
+Prefect carregar as imagens sem aparecer
+
+
+<html>
+  <head>
+    <title>Feliz Aniversário, Professor Abraão Alves!</title>
+  </head>
+  <body>
+    <h1>Feliz Aniversário, Professor Abraão Alves!</h1>
+    <p>Que este dia seja muito especial para você e que todos os seus sonhos se realizem.</p>
+    <p>Que o seu aniversário seja tudo de bom e que toda a sua vida seja repleta de alegrias e realizações.</p>
+  </body>
+</html>
+
+
+
+
+https://chat.openai.com/
+
+https://gitpod.io/#/https://github.com/dcTeam7/Course 
+
+
+https://notepade.web.app/?pcbarbosa
 
 <hr>
 
