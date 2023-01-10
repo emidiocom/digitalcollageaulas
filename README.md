@@ -4,6 +4,66 @@
 
 # Digital Collage Aulas Turma Full Stack 07
 
+
+<hr>
+
+##Aula 10012023
+
+C = ` ${C} String `;
+
+C = C + `String`;
+
+
+
+var = template = `
+
+<h1> </h1>
+<section>
+<p>
+<label> Profissão: </label>
+
+
+
+
+Usar o Console
+Nome link Git e-mail
+
+
+var nome = "Emídio Neto";
+var email = "emidio.com@gmail.com";
+var linkedin = "https://www.linkedin.com/in/em%C3%ADdio-neto-03680522/";
+var github = "https://github.com/emidiocom";
+
+var template = `
+
+<h1> ${nome} </h1>
+<section>
+<p>
+    <label> e-Mail.....: </label>
+    <span> ${email} </span>
+</p>
+<p>
+    <label> Linkedin...: </label>
+    <span> ${linkedin} </span>
+</p>
+<p>
+    <label> GitHub....: </label>
+    <span> ${github} </span>
+</p>
+</section>
+`;
+
+Para testar usar o comando 
+
+console.info(template)
+document.write(template)
+
+
+
+react.email
+
+
+
 <hr>
 
 ##Aula 20122022
