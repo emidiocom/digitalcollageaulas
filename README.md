@@ -4,6 +4,54 @@
 
 # Digital Collage Aulas Turma Full Stack 07
 
+<hr>
+9
+​
+10
+##Aula 12012023
+11
+​
+7
+
+` turma fs07
+`.charCodeAt(0)
+
+*** Dica o Index começa em 0 Zero
+
+
+Dica de Senha 12ç"1'
+
+\  --> Caracter de Escape
+
+\n --> Quebra de Linha
+
+
+var A = ' String '
+var B = " String "
+var C = ` String `   --> Não tem quebra de linha "Poder usar para String Template"
+
+*SQL Injection
+
+
+Primitivo ==> String == Valor
+Não pode alterar
+
+
+Complexo ==> Array == Referencia
+Pode Alterar
+
+
+nome = 'Fabrício'.split('');
+
+nome = nome.join('');
+
+
+https://sayhello.so/
+https://phind.com/ 
+​
+
+
+
 
 <hr>
 
