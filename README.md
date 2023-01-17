@@ -5,6 +5,28 @@
 # Digital Collage Aulas Turma Full Stack 07
 
 <hr>
+
+##Aula 17012023
+
+	
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push
+
+	[ ] 	.push
+		.shift
+		.pop
+		.unshit
+
+
+https://gitpod.io/#/https://github.com/dcTeam7/PizzaMaker
+https://gitpod.io/#/https://github.com/emidiocom/PizzaMaker
+
+Manual do Código
+
+
+codepen
+
+
+<hr>
 9
 ​
 10
