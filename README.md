@@ -6,6 +6,21 @@
 
 <hr>
 
+##Aula 19012023
+app JS
+
+alert('texto para aparecer');
+
+
+onEvent("buttonCart", "click", function () {
+
+escolha.sj
+
+
+
+
+<hr>
+
 ##Aula 17012023
 
 	
