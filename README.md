@@ -6,6 +6,16 @@
 
 <hr>
 
+##Aula 26012023
+
+Tag <Script> Pesquisar do MDM 
+
+Alt + para cima ou Alt + para baixo
+
+dica site hora de codar
+
+<hr>
+
 ##Aula 19012023
 
 app JS
