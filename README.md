@@ -6,6 +6,21 @@
 
 <hr>
 
+##Aula 31012023
+
+
+function () => {    ou      <--- Arrow Function()
+
+debug
+
+Hoisting
+
+
+https://gitpod.io/#/https://github.com/emidiocom/pocket
+https://notepade.web.app/?emidiocom
+
+<hr>
+
 
 ##Aula 26012023
 
