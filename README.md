@@ -9,6 +9,7 @@
 ##Aula 31012023
 
 
+
 function () => {    ou      <--- Arrow Function()
 
 debug
