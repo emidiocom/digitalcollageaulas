@@ -6,6 +6,84 @@
 
 <hr>
 
+##Aula02022023
+
+
+storybook
+
+Extensão Gitlens para historico de pullrequest
+
+
+
+1baa230efdce228aafd7333f45f186e0cbfc0dd4
+
+git branch <branchname> [<commit-id>]
+
+git branch fix_bug_teste_aula02022023 1baa230efdce228aafd7333f45f186e0cbfc0dd4
+
+day.js
+Dicas para fazer o extrato do app carteira.
+Pesquisar = new Date() 
+
+Dica = new Date().toDateString()
+	 new Date().toISOString()
+
+Declarar objeto
+
+const gasto = {
+	tipo: 'comida',
+	valor: 10,
+	dia: new Date().toDateString()
+}
+
+// JSDOC para fazer comentarios  --> Dica Importante para fazer um padrao de comentarios
+
+
+//** @type Array<{tipo: string, valor: number, dia: Date}> */
+
+let listaExtrato = [
+	{
+		
+	}, {}, {}
+];
+
+
+listaExtrato = [];  --> para limpar a lista de extrato.
+
+listaExtrato.push({
+	dia: new Date();
+	tipo: ' '
+	valor: id,
+});
+
+
+criar função para atualizar o extrato
+
+const atualizaExtrato
+
+
+colocar função no click no botao
+
+atualizaExtrato('brinquedo', brinquedo);
+
+const gasto = listaExtrato[0];
+
+let resultador = '';
+listaExtrato.forEach((gasto) => {
+
+resultado +=
+	<li>
+		<img >
+		<h3> ${gasto.tipo} </h3>
+		<span>${gasto.valor} </span>
+		<span>${gasto.valor} </span>
+	</li>
+	});
+
+console.info(resultado);
+
+<hr>
+
 ##Aula 31012023
 
 
