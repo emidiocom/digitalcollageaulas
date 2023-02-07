@@ -10,7 +10,7 @@
 ##Aula02022023
 
 
-storybook.
+storybook..
 
 Extensão Gitlens para historico de pullrequest
 
