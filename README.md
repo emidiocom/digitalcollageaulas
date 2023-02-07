@@ -6,6 +6,31 @@
 
 <hr>
 
+##Aula 07022023
+
+eslimt ==> Dica para ajudar no ajuste do codigo
+
+Tipo de arquivos
+-->  gui.jps  "Graph User Interface" mas pode ser Dom, Lib
+
+routes
+
+controller page
+
+componet
+
+
+debugger;  -- > F10 setp over "Muito Importante para ajudar no entendimento do Codigo"
+
+Dica = click na Função com Botão do Mouse + Ctrl --> Para saber onde a função está.
+
+
+Dica --> https://www.alura.com.br/artigos/extensoes-vs-code-descubra-as-mais-usadas
+
+
+
+<hr>
+
 
 ##Aula02022023
 
