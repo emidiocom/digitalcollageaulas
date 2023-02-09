@@ -2,6 +2,60 @@
 
 <hr>
 
+##Aula 09022023
+
+
+Metodo Feymman
+
+
+
+Metodos do Array
+
+# map 
+
+# filter
+
+# sort
+
+# reduce
+
+function transfortaItem(item) {
+return `<li class"text-warning">${item}</li>`
+
+
+
+
+
+function makeList(arr) {
+  // Altere apenas o código abaixo desta linha
+  const failureItems = [
+        `${result.failure}` 
+        
+  ];
+
+function makeList(arr) {
+  const failureItems = [];
+ 
+
+
+ arr.forEach(element => 
+    
+for(var i=0; i< arr.length; i++) {
+
+const item = arr[i];
+failureItems.push(item)	
+
+failureItems.push(`<li class="text-warning">${arr[0]}</li>`))
+
+failureItems.push(`<li class="text-warning">${item}</li>`))
+
+
+
+  return failureItems;
+}
+
+<hr>
+
 # Digital Collage Aulas Turma Full Stack 07
 
 
