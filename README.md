@@ -1,8 +1,48 @@
 #### digitalcollageaulas
 
-
+<hr>
 
 # Digital Collage Aulas Turma Full Stack 07
+
+
+<hr>
+
+
+##08022023 Digital Plus | Introdução ao GitOps
+ 
+GitOps
+
+Dica Pesquisar --> done right
+				
+		 --> https://www.terraform.io/
+
+		 --> ligth house
+		 
+		 --> Ferramentas para Feature Flag
+
+	--> GitLab CI
+
+	--> Formato YAML
+		
+	--> Ver como instalar node
+
+https://github.com/rtio/github-actions-101
+
+
+git checkout -b emidiocom/add-cicd-workflows-dev
+
+	--> Pesquisar GitHub Marketplace
+
+
+
+ git add .github/workflows
+
+git status
+
+git commit -m 'feat: Add workflow configure file' 
+
+
+https://gitpod.io/#/https://github.com/emidiocom/github-actions-101
 
 <hr>
 
