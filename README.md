@@ -8,7 +8,6 @@
 -> Metodo Feymman
 
 
-
 Metodos do Array
 
 # map 
