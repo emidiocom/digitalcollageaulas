@@ -2,6 +2,33 @@
 
 <hr>
 
+##Aula14022023
+
+----> Duvidas e Lacunas
+
+-> Porque utilizar o MAP
+
+-> syntanx Map
+
+-> Novo array com menos dados MAP
+
+-> Porque é´uma estrutura de repetição
+
+-> Como manipular elementos dentro do MAP
+
+
+
+MDN sort() pesquisar
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+
+Callbackfunction
+
+https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
+
+
+<hr>
+
 ##Aula 09022023
 
 
