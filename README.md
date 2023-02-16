@@ -2,6 +2,15 @@
 
 <hr>
 
+##Aula 16022023
+
+
+Dica pesquisar --> this mdn
+arrow functions
+forEach pesquisar e estudar na documentação do mdn
+
+<hr>
+
 ##Aula14022023
 
 
