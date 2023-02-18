@@ -4,6 +4,7 @@
 
 ##Aula 17022023
 
+
 https://notepade.web.app/?emidiocom
 https://notepade.web.app/?js-hero-1
 https://notepade.web.app/?andremoreira# 452586
