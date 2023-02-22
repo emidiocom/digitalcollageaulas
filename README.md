@@ -14,6 +14,7 @@ https://notepade.web.app/?pcbarbosa
 
 
 
+
 mdn JavaScript
 
 phind ---> buscar sobre dev
