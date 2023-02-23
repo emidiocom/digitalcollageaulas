@@ -2,6 +2,56 @@
 
 <hr>
 
+##Aula 23022023
+
+Sayhello.so
+mdn even + loop
+
+
+Dica = F12 para alterar nome de uma varial no VSL
+
+	--> JSDOC para fazer comentarios no padrao universal
+
+POO
+  Objects:
+	|_ PROP
+	|
+	|_ METODOS
+
+
+
+--> CALLBACK
+
+1 - State: Loked Door
+	
+	- Check Door
+
+	const trancada = aluno.verifica(sala.porta);
+
+	- Confirm Loked Door
+
+	if (trancada) {
+
+	- Call Friend
+	
+	  aluno.ligarPara(outroAluno);	
+
+	- Wait unlocked Door
+	
+	  espera(sala.porta.aberta, function () {
+	
+	- Enter
+
+	    aluno.entraNa(sala);
+	  })
+
+	}
+
+2 - State: Unlook Door
+
+
+<hr>
+
 ##Aula 17022023
 
 
