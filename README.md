@@ -1,6 +1,47 @@
 #### digitalcollageaulas
 
 <hr>
+
+Aula 28022023
+
+CallBacks
+Event loop
+Infit Loop
+
+
+Como converter uma função que usa callbacks para promise javascript
+
+
+const myPromise = new Promise((resolve, reject) => {
+
+});
+
+
+https://chat.openai.com/
+
+https://notepade.web.app/markdown/?promise-tasks
+
+
+function espera(pergunta, tarefa) {
+  return new Promise((resolve, reject) => {
+    let intervalId = setInterval(() => {
+      if (pergunta()) {
+        tarefa();
+        clearInterval(intervalId);
+        resolve();
+      }
+    }, 1000);
+  });
+}
+
+espera(
+  () => document.body.style.background == "red",
+  () => alert("vai dar PT")
+);
+
+
+document.body.style.background='red'
+
 <hr>
 
 ##Aula 23022023
