@@ -2,6 +2,33 @@
 
 <hr>
 
+https://notepade.web.app/?abraao
+
+https://codepen.io/victmo/pen/qpwdQK
+https://beta.reactjs.org/learn/describing-the-ui
+
+```
+
+   <picture>
+      <img src="https://i.imgur.com/MK3eW3As.jpg" alt="Katerine" />
+      <span>Katerine</span>
+  </picture>
+
+
+// result
+
+function App(){
+  return <div>
+	<Profile />
+	<Profile />
+	<Profile />
+</div>
+}
+```
+
+
+<hr>
+
 Aula 28022023
 
 CallBacks
