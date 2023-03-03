@@ -9,6 +9,7 @@ https://beta.reactjs.org/learn/describing-the-ui
 
 ```
 
+
    <picture>
       <img src="https://i.imgur.com/MK3eW3As.jpg" alt="Katerine" />
       <span>Katerine</span>
