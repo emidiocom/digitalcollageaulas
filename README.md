@@ -8,7 +8,6 @@ https://notepade.web.app/?abraao
 
 
 
-
 https://codepen.io/victmo/pen/qpwdQK
 
 https://beta.reactjs.org/learn/describing-the-ui
