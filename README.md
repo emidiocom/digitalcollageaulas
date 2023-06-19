@@ -6,8 +6,6 @@
 
 
 
-
-
 https://notepade.web.app/?abraao
 
 
